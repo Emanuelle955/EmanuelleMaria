@@ -6,5 +6,5 @@
 - Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos desenvolvidos 
 - Uso o Github como um lugar de anotações
 
-https://media1.tenor.com/m/AksUG62e9fcAAAAC/shy-bunny.gif
+![]()https://media1.tenor.com/m/AksUG62e9fcAAAAC/shy-bunny.gif
 @ema_mfg
